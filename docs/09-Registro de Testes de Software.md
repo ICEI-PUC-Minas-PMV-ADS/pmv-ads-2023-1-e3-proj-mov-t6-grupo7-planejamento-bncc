@@ -1,12 +1,45 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+| Testes 	| CT 01 – Efetuar login |
+|:---:	|:---:	|
+<img src="img/Testes/Login.png">
+
+| Testes 	| CT 02 – Filtrar Ensino Fundamental |
+|:---:	|:---:	|
+
+<img src="img/Testes/ProdutoAdd.png">
+<img src="img/Testes/ProdutoAdd2.png">
+
+| Testes 	| CT 03 – Filtrar Ano/Série/Faixa etária |
+|:---:	|:---:	|
+
+<img src="img/Testes/Remover.png">
+
+| Testes 	| CT 04 – Filtrar por matérias |
+|:---:	|:---:	|
+<img src="img/Testes/Classificacao.png">
+
+| Testes 	| CT 05 – Filtrar por habilidades |
+|:---:	|:---:	|
+
+<img src="img/Testes/Quantidade.png">
+
+| Testes 	| CT 06 – Visualizar tabela com os filtros |
+|:---:	|:---:	|
+
+<img src="img/Testes/QuantidadeTotal.png">
+  
+| Testes 	| CT 07 – Efetuar download do relatório com o conteúdo filtrado |
+|:---:	|:---:	|
+
+<img src="img/Testes/Quantidade.png">
+
+
+---
+
+
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+Todas as funcionalidades feitas até o momento funcionam perfeitamente, faltando apenas implementar as que faltam para a aplicação
