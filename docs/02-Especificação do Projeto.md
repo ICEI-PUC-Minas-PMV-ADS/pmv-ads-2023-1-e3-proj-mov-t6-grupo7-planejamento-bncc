@@ -8,7 +8,7 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nos quadros a seguir.
 
-|![Persona-1](img/DocumentacaoDeContexto//Persona1.png) |
+|![Persona-1](img/DocumentacaoDeContexto/Persona1.png) |
 |------|
 |**Nome:** `Marilene Santos `| 
 |**Idade:** `30 anos `|  
@@ -119,27 +119,30 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Fácil seleção de habilidades a serem desenvolvidas pelos alunos, lista de objetos de conhecimento e planos de aula feitos a partir de um banco de dados. Esse é o cenário ideal para professores realizarem planejamentos, quer sejam os de uma simples aula, quer de todo um curso.  
+
+Entretanto, não é isso que os docentes têm disponível no mercado de tecnologia de hoje. De forma manual, é comum que os professores tenham que abrir um documento de 900 páginas, a Base Nacional Curricular Comum - BNCC, e procurar as habilidades e objetos do conhecimento a serem ensinados em seu respectivo ano e área que lecionam.  
+
+Dessa forma, este trabalho propõe armazenar a BNCC em um banco de dados e disponibilizar planos de aula em uma aplicação mobile voltada para esses profissionais da educação. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Este projeto apresenta uma solução para a grande dificuldade de se montar um plano de aulas baseado na Base Nacional Curricular Comum. Oportunamente, a aplicação também se torna uma importante fonte de consulta para os professores e outros educadores estudarem para concursos, visto que tal conteúdo é amplamente exigido na maioria dos processos seletivos e concursos voltados para a área da educação. E assim possibilitar a montagem de um plano de aulas e plano de curso baseado na BNCC e também a consulta da BNCC por meio do acesso ao banco de dados montado no celular do usuário. 
+### Processo 1 – MODELAGEM AS IS
 
-### Processo 1 – NOME DO PROCESSO
+O AS-IS é a situação atual dos processos, ou seja, como os processos funcionam hoje. Sem realizar nenhuma análise crítica e sem discutir se o processo está bom ou ruim 
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+![Processo 1](img/DocumentacaoDeContexto/ModelagemDeProcesso1.png)
 
-![Processo 1](img/02-bpmn-proc1.png)
+### Processo 2 – MODELAGEM TO BE
 
-### Processo 2 – NOME DO PROCESSO
+O TO-BE é o processo futuro, ou seja, ele é o processo melhorado, aquele processo que queremos que a empresa venha a seguir. Ele é o processo onde as melhorias estão sendo implementadas.
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
+![Processo 2](img/DocumentacaoDeContexto/ModelagemDeProcesso2.png)
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+Apresentados abaixo os principais indicadores de desempenho e algumas metas para o processo.
 
 Usar o seguinte modelo: 
 
