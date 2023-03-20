@@ -115,6 +115,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |Daniela Andrade         | Seleção de objetivos                | Visão que permita a seleção apenas de objetivos que precisam ser trabalhados com seu aluno |
 |Lucas Ferrari        | Seleção de todos os itens relacionados a sua prova                | Visualizar de acordo com sua prova a ser realizada, apenas os conteúdos que precisam ser estudados |
 
+---
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
@@ -128,26 +129,30 @@ Dessa forma, este trabalho propõe armazenar a BNCC em um banco de dados e dispo
 ### Descrição Geral da Proposta
 
 Este projeto apresenta uma solução para a grande dificuldade de se montar um plano de aulas baseado na Base Nacional Curricular Comum. Oportunamente, a aplicação também se torna uma importante fonte de consulta para os professores e outros educadores estudarem para concursos, visto que tal conteúdo é amplamente exigido na maioria dos processos seletivos e concursos voltados para a área da educação. E assim possibilitar a montagem de um plano de aulas e plano de curso baseado na BNCC e também a consulta da BNCC por meio do acesso ao banco de dados montado no celular do usuário. 
+
+---
 ### Processo 1 – MODELAGEM AS IS
 
 O AS-IS é a situação atual dos processos, ou seja, como os processos funcionam hoje. Sem realizar nenhuma análise crítica e sem discutir se o processo está bom ou ruim 
 
 ![Processo 1](img/DocumentacaoDeContexto/ModelagemDeProcesso1.png)
 
+---
 ### Processo 2 – MODELAGEM TO BE
 
 O TO-BE é o processo futuro, ou seja, ele é o processo melhorado, aquele processo que queremos que a empresa venha a seguir. Ele é o processo onde as melhorias estão sendo implementadas.
 
 ![Processo 2](img/DocumentacaoDeContexto/ModelagemDeProcesso2.png)
 
+---
 ## Indicadores de Desempenho
 
 Apresentados abaixo os principais indicadores de desempenho e algumas metas para o processo.
+ 
 
-Usar o seguinte modelo: 
+![Indicadores de Desempenho](img/DocumentacaoDeContexto/Indicadores-de-desempenho.png)
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+---
 
 ## Requisitos
 
