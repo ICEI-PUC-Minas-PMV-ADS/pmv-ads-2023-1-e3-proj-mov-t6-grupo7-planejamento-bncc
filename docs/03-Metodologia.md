@@ -15,7 +15,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | --------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Repositório de código fonte       | Github     |https://github.com/GuruDevOp7884/pmv-ads-2023-1-e3-proj-mov-t6-grupo7-planejamento-bncc                |
 | Documentos do projeto             | Github     | https://github.com/GuruDevOp7884/pmv-ads-2023-1-e3-proj-mov-t6-grupo7-planejamento-bncc/tree/main/docs |
-| Projeto de Interface e Wireframes | MarvelApp  | `Em análise`                                                                                           |
+| Projeto de Interface e Wireframes | Figma  | https://www.figma.com/file/5VZIH1EdMVeGZZPJSHqIzp/BNCC?node-id=0-1                                                                                           |
 | Gerenciamento do Projeto          | Trello     | https://trello.com/b/8lJOQrrJ/planejamento-bncc                                                                               |
 
 ---

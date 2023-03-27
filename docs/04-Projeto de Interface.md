@@ -16,16 +16,26 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 ---
 ## Wireframes
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum.
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+#### Tela - Login
+![Exemplo de Wireframe](img/ProjetoInterface/Login.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+---
+#### Tela - Registro
+![Exemplo de Wireframe](img/ProjetoInterface/Registro.png)
+
+---
+#### Tela - Recuperação de senha
+![Exemplo de Wireframe](img/ProjetoInterface/Recupera%C3%A7%C3%A3oDeSenha.png)
+
+---
+
+#### Tela - Perfil
+![Exemplo de Wireframe](img/ProjetoInterface/Profile.png)
+
+---
+#### Tela - Filtragem
+![Exemplo de Wireframe](img/ProjetoInterface/Filtro.png)
+
+
