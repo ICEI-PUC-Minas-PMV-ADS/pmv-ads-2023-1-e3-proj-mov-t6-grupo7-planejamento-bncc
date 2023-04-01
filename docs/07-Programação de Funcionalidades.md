@@ -1,15 +1,28 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+## Funcionalidades do Sistema  
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Nesta seção é apresentada uma funcionalidade desenvolvida para o sistema, que é a visualização do banco de dados e filtragens. 
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+ ## Visualização do banco de dados  
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+  
+
+A tela principal do sistema apresenta o banco de dados com opções para filtragem. Esse banco de dados já está disponível no Firebase e também em SQL, e a utilização de um ou outro vai depender dos resultados de sua implementação em futuras entregas deste trabalho. Nesse exemplo, foi utilizado o Firebase.  
+
+Há duas opções de filtragens. Na primeira, o usuário seleciona o ano que deseja ver o currículo, com distintas possibilidades de combinação. Na segunda, é gerado automaticamente um menu dropdown dinâmico cujas entradas, armazenadas em um conjunto, refletem os diferentes conteúdos, chamados “unidades temáticas” a serem trabalhados na disciplina de Matemática. A figura a seguir mostra uma filtragem com os dois filtros selecionados.
+
+![Esquema Relacional](img/ProgramaçãoFuncionalidades/Pag1.jpg)
+
+---
+
+Nessa outra figura, é possível ver as opções geradas automaticamente pelo menu dropdown. A cada matéria selecionada, uma filtragem específica que contemple apenas esses itens é gerada.  
+
+
+![Esquema Relacional](img/ProgramaçãoFuncionalidades/Pag2.png)
+
+---
+
+Ja nessa figura, é possivel ver um protótipo da tela de login do app
+
+![Esquema Relacional](img/ProgramaçãoFuncionalidades/Pag3.jpg)
