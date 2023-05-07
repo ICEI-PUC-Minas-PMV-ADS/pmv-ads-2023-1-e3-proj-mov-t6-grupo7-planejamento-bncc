@@ -2,27 +2,30 @@
 
 ## Funcionalidades do Sistema  
 
-Nesta seção é apresentada uma funcionalidade desenvolvida para o sistema, que é a visualização do banco de dados e filtragens. 
+Nesta seção é apresentada uma funcionalidade desenvolvida para o sistema
 
- ## Visualização do banco de dados  
-
-  
-
-A tela principal do sistema apresenta o banco de dados com opções para filtragem. Esse banco de dados já está disponível no Firebase e também em SQL, e a utilização de um ou outro vai depender dos resultados de sua implementação em futuras entregas deste trabalho. Nesse exemplo, foi utilizado o Firebase.  
-
-Há duas opções de filtragens. Na primeira, o usuário seleciona o ano que deseja ver o currículo, com distintas possibilidades de combinação. Na segunda, é gerado automaticamente um menu dropdown dinâmico cujas entradas, armazenadas em um conjunto, refletem os diferentes conteúdos, chamados “unidades temáticas” a serem trabalhados na disciplina de Matemática. A figura a seguir mostra uma filtragem com os dois filtros selecionados.
-
-![Esquema Relacional](img/ProgramaçãoFuncionalidades/Pag1.jpg)
-
----
-
-Nessa outra figura, é possível ver as opções geradas automaticamente pelo menu dropdown. A cada matéria selecionada, uma filtragem específica que contemple apenas esses itens é gerada.  
+ ## Tela de Cadastro
+A tela de cadastro apresenta um formulário onde o usuário poderá cadastrar sua conta no APP.
 
 
-![Esquema Relacional](img/ProgramaçãoFuncionalidades/Pag2.png)
+Neste Video é possivel ver os dados do usuário sendo registrados no banco de dados com a senha criptografada
+
+
+
+
 
 ---
 
-Ja nessa figura, é possivel ver um protótipo da tela de login do app
+## Tela de Login
 
-![Esquema Relacional](img/ProgramaçãoFuncionalidades/Pag3.jpg)
+A tela de cadastro apresenta um formulário onde o usuário poderá efetuar o login na sua conta do APP.
+
+
+No video acima é possivel ver o usuário fazendo o login e logout do sistema.
+
+
+## Tela Principal
+
+A tela principal do sistema apresenta as opções de filtragem, onde o usuário poderá filtrar por componente e ano.
+
+No video acima é possivel ver a filtragem e o download da planilha em excel, ao selecionar os filtros, o mesmo reflete na cor da tabela, para melhor visualização do que está sendo filtrado e o conteúdo que será baixado na planilha excel.
