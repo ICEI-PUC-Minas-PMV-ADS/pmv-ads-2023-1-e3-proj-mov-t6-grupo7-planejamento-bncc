@@ -4,8 +4,8 @@ Os resultados obtidos nos testes de usabilidade realizados serão descritos a se
 
 **1. Gostaria de usar esse sistema com frequência?**
   
-- Concordo Completamente - `0%`
-- Concordo Parcialmente - `0%`
+- Concordo Completamente - `10%`
+- Concordo Parcialmente - `90%`
 - Não concordo nem discordo - `0%`
 - Discordo Parcialmente - `0%`
 - Discordo Completamente - `0%`
@@ -16,11 +16,11 @@ Os resultados obtidos nos testes de usabilidade realizados serão descritos a se
 - Concordo Parcialmente - `0%`
 - Não concordo nem discordo - `0%`
 - Discordo Parcialmente - `0%`
-- Discordo Completamente - `0%`
+- Discordo Completamente - `100%`
 
 **3. O sistema é fácil de usar?**
 
-- Concordo Completamente - `0%`
+- Concordo Completamente - `100%`
 - Concordo Parcialmente - `0%`
 - Não concordo nem discordo - `0%`
 - Discordo Parcialmente - `0%`
@@ -32,11 +32,11 @@ Os resultados obtidos nos testes de usabilidade realizados serão descritos a se
 - Concordo Parcialmente - `0%`
 - Não concordo nem discordo - `0%`
 - Discordo Parcialmente - `0%`
-- Discordo Completamente - `0%`
+- Discordo Completamente - `100%`
 
 **5. As funções do sistema estão bem integradas?**
 
-- Concordo Completamente - `0%`
+- Concordo Completamente - `100%`
 - Concordo Parcialmente - `0%`
 - Não concordo nem discordo - `0%`
 - Discordo Parcialmente - `0%`
@@ -47,21 +47,21 @@ Os resultados obtidos nos testes de usabilidade realizados serão descritos a se
 - Concordo Completamente - `0%`
 - Concordo Parcialmente - `0%`
 - Não concordo nem discordo - `0%`
-- Discordo Parcialmente - `0%`
-- Discordo Completamente - `0%`
+- Discordo Parcialmente - `10%`
+- Discordo Completamente - `90%`
 
 **7. Você sente segurança usando o sistema?**
 
 - Concordo Completamente - `0%`
 - Concordo Parcialmente - `0%`
-- Não concordo nem discordo - `0%`
-- Discordo Parcialmente - `0%`
+- Não concordo nem discordo - `50%`
+- Discordo Parcialmente - `50%`
 - Discordo Completamente - `0%`
 
 **8. O sistema é intuitivo?**
 
-- Concordo Completamente - `0%`
-- Concordo Parcialmente - `0%`
-- Não concordo nem discordo - `0%`
+- Concordo Completamente - `50%`
+- Concordo Parcialmente - `30%`
+- Não concordo nem discordo - `20%`
 - Discordo Parcialmente - `0%`
 - Discordo Completamente - `0%`
