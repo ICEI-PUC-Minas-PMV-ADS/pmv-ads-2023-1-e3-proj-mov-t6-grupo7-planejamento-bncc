@@ -2,7 +2,6 @@
 
 
 | Testes 	| CT 01 – Efetuar login |
-|:---:	|:---:	|
 https://user-images.githubusercontent.com/88688861/236684169-2ae988a3-da30-4a62-aa54-11fe4341bd55.mp4
 
 
