@@ -2,7 +2,7 @@
 
 ## Funcionalidades do Sistema  
 
-Nesta seção é apresentada uma funcionalidade desenvolvida para o sistema
+Nesta seção é apresentada as funcionalidades desenvolvidas para o sistema.
 
  ## Tela de Cadastro
 A tela de cadastro apresenta um formulário onde o usuário poderá cadastrar sua conta no APP.
