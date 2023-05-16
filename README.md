@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Planejamento BNCC
 
 #### `Análise e Desenvolvimento de Sistemas`
 

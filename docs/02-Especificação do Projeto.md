@@ -164,12 +164,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário faça login na aplicação | MÈDIA |
-|RF-002| Permitir que o usuário que o usuário possa filtrar as opções: Ensino médio, Ensino fundamental - Anos finais | ALTA |
-|RF-003| Permitir que o usuário possa filtrar por Ano | ALTA |
-|RF-004| Permitir que o usuário possa filtrar por Componentes  | ALTA |
-|RF-005| Permitir que o usuário possa filtrar por habilidades | ALTA |
-|RF-006| Permitir que o usuário visualize uma tabela com os filtros aplicados | MÈDIA |
-|RF-007| Permitir que o usuário faça download de um relatório de acordo com o conteúdo que foi selecionado  | ALTA |
+|RF-002| Permitir que o usuário possa filtrar por Ano | ALTA |
+|RF-003| Permitir que o usuário possa filtrar por Componentes  | ALTA |
+|RF-004| Permitir que o usuário visualize uma tabela com os filtros aplicados | MÈDIA |
+|RF-005| Permitir que o usuário visualize uma tabela com os componentes e anos que podem ser filtrados  | ALTA |
+|RF-006| Permitir que o usuário faça download de um relatório de acordo com o conteúdo que foi selecionado  | ALTA |
 
 
 

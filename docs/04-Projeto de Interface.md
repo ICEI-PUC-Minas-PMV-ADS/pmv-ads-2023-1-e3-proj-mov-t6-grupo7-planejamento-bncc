@@ -26,15 +26,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 ![Exemplo de Wireframe](img/ProjetoInterface/Registro.png)
 
 ---
-#### Tela - Recuperação de senha
-![Exemplo de Wireframe](img/ProjetoInterface/Recupera%C3%A7%C3%A3oDeSenha.png)
 
----
-
-#### Tela - Perfil
-![Exemplo de Wireframe](img/ProjetoInterface/Profile.png)
-
----
 #### Tela - Filtragem
 ![Exemplo de Wireframe](img/ProjetoInterface/Filtro.png)
 
