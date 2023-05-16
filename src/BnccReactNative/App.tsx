@@ -10,7 +10,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 
 
-import Route from '../src/src/Navigations/Route';
+import Route from '../BnccReactNative/src/Navigations/Route';
 
 const App = () => {
   return (
