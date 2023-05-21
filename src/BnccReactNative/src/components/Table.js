@@ -1,10 +1,9 @@
-import React, { useCallback, useState } from "react";
+import React, { useState } from "react";
 import axios from 'axios'; 
 import { View, StyleSheet, Text, ScrollView, PermissionsAndroid, Dimensions } from "react-native";
 import { Col, Row, Grid } from "react-native-easy-grid";
 import RNFetchBlob from 'rn-fetch-blob';
-import { Checkbox, Button, IconButton, FAB, Portal, Provider } from "react-native-paper"; 
-import AwesomeIcon from 'react-native-vector-icons/FontAwesome';
+import { Checkbox, IconButton } from "react-native-paper"; 
 import  Spinner  from 'react-native-loading-spinner-overlay';
 import Share from 'react-native-share';
 
@@ -262,7 +261,7 @@ const App = () => {
       <Text style={styles.textTitles}>Componentes</Text>
       <View style={styles.box}>
         <View style={styles.checkboxComp}>
-          <View style={styles.checkbox}>
+          <View style={styles.checkboxAnos}>
             <Checkbox                 
               status={checkedAll ? "checked" : "unchecked"}
               onPress={() => {
@@ -278,7 +277,7 @@ const App = () => {
             <Text style={styles.textNames}>Todos</Text>
           </View>
           
-          <View style={styles.checkbox}>
+          <View style={styles.checkboxAnos}>
             <Checkbox
               name = "materia"
               status={checkedPort ? "checked" : "unchecked"}
@@ -457,7 +456,7 @@ const App = () => {
             <Text style={styles.textNames}>Português</Text>
           </View>
 
-          <View style={styles.checkbox}>
+          <View style={styles.checkboxAnos}>
             <Checkbox
               status={checkedMat ? "checked" : "unchecked"}
               onPress={() => {
@@ -638,7 +637,8 @@ const App = () => {
 
       {/*Anos Checkboxes*/}
       <Text style={styles.textTitles}>Ano</Text>
-      <View style={styles.box}>
+      <View>
+        <View style={styles.box}>
 
          {/*Linha1CheckBoxes */ }
         <View style={styles.checkboxAno}>
@@ -1037,6 +1037,7 @@ const App = () => {
           </View>
         </View>
 
+        </View>
       </View>
    
       <View style={{ flexDirection: "row", justifyContent: 'center', alignContent: 'center' }}>
@@ -1265,6 +1266,12 @@ const styles = StyleSheet.create({
     textDecorationLine: "underline",  
   },
   checkbox: {
+    flexDirection: "row",
+    alignItems: "center",
+    width:75,
+    
+  },
+  checkboxAnos: {
     flexDirection: "row",
     alignItems: "center",
     

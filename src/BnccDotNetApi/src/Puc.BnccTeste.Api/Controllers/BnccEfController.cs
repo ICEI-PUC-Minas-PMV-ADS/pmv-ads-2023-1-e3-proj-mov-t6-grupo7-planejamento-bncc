@@ -13,13 +13,13 @@ namespace Puc.BnccTeste.Api.Controllers
 {
     [Route("api/{controller}")]
     [ApiController]
-    public class BnccMatematicaEfController : Controller
+    public class BnccEfController : Controller
     {
         private readonly IBnccMatematicaEfService _matematica;
         private readonly IBnccLinguaPortuguesaEfService _portugues;
         private readonly IUsuarioService _usuario;
 
-        public BnccMatematicaEfController(
+        public BnccEfController(
             IBnccMatematicaEfService matematica, 
             IBnccLinguaPortuguesaEfService portugues,
             IUsuarioService usuario)
@@ -120,10 +120,12 @@ namespace Puc.BnccTeste.Api.Controllers
 
                             var planilha = workbook.AddWorksheet("Matematica");
                             var linha = 3;
-                            var BnccImage = @"h:\root\home\gustavaosmarter-001\www\Bncc1\BannerBNcc.png";                   
+
+                            //Caso ocorra algum erro copie o caminho da imagem na pasta img em Puc.BnccTeste.Api/Img e substitua na variável bnccImage
+                            var bnccImage = "h:\\root\\home\\gustavaosmarter-001\\www\\Bncc1\\BannerBNcc.png";                   
                             var titulo = "Matemática";
 
-                            planilha.AddPicture(BnccImage).MoveTo(planilha.Cell(1, 1)).ScaleWidth(1.045, true);
+                            planilha.AddPicture(bnccImage).MoveTo(planilha.Cell(1, 1)).ScaleWidth(1.045, true);
 
                             planilha.Cell(2, 1).Value = titulo;
                             planilha.Cell(2, 1).Worksheet.Range("A2", "G2").Merge();
@@ -761,7 +763,7 @@ namespace Puc.BnccTeste.Api.Controllers
                 }
                 catch (Exception ex)
                 {
-                    return null;
+                    return BadRequest("Algo inesperado ocorreu!");
                 }
               
                 using (var stream = new MemoryStream())

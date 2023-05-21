@@ -36,8 +36,8 @@ const Login = () => {
       })        
     })
       .then(async response => response.json())
-      .then(result => {        
-        setRes((result.message == "Usuário encontrado!") ? "" : result.message);
+      .then(result => {                
+        result.message == "Usuário encontrado!" ? setRes("") : setRes(result.message);  
         console.log(result.data.email)
         setTimeout(
           function() {
