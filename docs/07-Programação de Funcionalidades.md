@@ -1,15 +1,42 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+## Funcionalidades do Sistema  
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Nesta seção é apresentada as funcionalidades desenvolvidas para o sistema.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+ ## Tela de Cadastro
+A tela de cadastro apresenta um formulário onde o usuário poderá cadastrar sua conta no APP.
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+https://user-images.githubusercontent.com/88688861/236683873-0d8806c5-70e2-4f25-abcb-3465fe65c565.mp4
+
+
+Neste Video é possivel ver os dados do usuário sendo registrados no banco de dados com a senha criptografada
+
+
+
+
+
+---
+
+## Tela de Login
+
+A tela de cadastro apresenta um formulário onde o usuário poderá efetuar o login na sua conta do APP.
+
+
+https://user-images.githubusercontent.com/88688861/236683840-18cdd9cf-40a7-4ce0-8a98-79c1d29f12d5.mp4
+
+
+No video acima é possivel ver o usuário fazendo o login e logout do sistema.
+
+---
+
+## Tela Principal
+
+A tela principal do sistema apresenta as opções de filtragem, onde o usuário poderá filtrar por componente e ano.
+
+
+https://user-images.githubusercontent.com/88688861/236683896-a0e20287-556b-48b2-a066-198b87367ac0.mp4
+
+
+No video acima é possivel ver a filtragem e o download da planilha em excel, ao selecionar os filtros, o mesmo reflete na cor da tabela, para melhor visualização do que está sendo filtrado e o conteúdo que será baixado na planilha excel.

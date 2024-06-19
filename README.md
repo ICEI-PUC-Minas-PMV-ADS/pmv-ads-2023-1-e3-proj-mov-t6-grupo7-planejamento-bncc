@@ -1,23 +1,26 @@
-# TÍTULO DO PROJETO
+# Planejamento BNCC
 
-`CURSO`
+#### `Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+#### `Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+#### `EIXO 2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Fácil seleção de habilidades a serem desenvolvidas pelos alunos, lista de objetos de conhecimento e planos de aula feitos a partir de um banco de dados. Esse é o cenário ideal para professores realizarem planejamentos, quer sejam os de uma simples aula, quer de todo um curso.
+
+Entretanto, não é isso que os docentes têm disponível no mercado de tecnologia de hoje. De forma manual, é comum que os professores tenham que abrir um documento de 900 páginas, a Base Nacional Curricular Comum - BNCC, e procurar as habilidades e objetos do conhecimento a serem ensinados em seu respectivo ano e área que lecionam.
+
+Dessa forma, este trabalho propõe armazenar a BNCC em um banco de dados e disponibilizar planos de aula em uma aplicação mobile voltada para esses profissionais da educação.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Gustavo Alves Oliveira
+* Jefferson Filho
+* José Carlos da Costa Júnior
 
 ## Orientador
 
-* Nome completo do professor 1
+* Diego Silva Caldeira Rocha
 
 ## Instruções de utilização
 

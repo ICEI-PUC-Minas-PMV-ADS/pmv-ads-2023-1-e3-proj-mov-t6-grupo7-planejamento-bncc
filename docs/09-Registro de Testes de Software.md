@@ -1,12 +1,54 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+| Testes 	| CT 01 – Efetuar login |
+|:---:	|:---:	|
+No video abaixo é registrado o login no aplicativo
+
+https://user-images.githubusercontent.com/88688861/236684169-2ae988a3-da30-4a62-aa54-11fe4341bd55.mp4
+
+
+| Testes 	| CT 02 – Filtrar Ensino Fundamental |
+|:---:	|:---:	|
+
+`Em implementação` 
+
+| Testes 	| CT 03 – Filtrar Ano |
+|:---:	|:---:	|
+No video abaixo é possivel ver a filtragem por ano
+
+https://user-images.githubusercontent.com/88688861/236684386-b6b5d96d-4850-4510-afac-52b53144cd4c.mp4
+
+
+
+| Testes 	| CT 04 – Filtrar por Componentes |
+|:---:	|:---:	|
+No video abaixo é possivel ver a filtragem por componente
+
+https://user-images.githubusercontent.com/88688861/236684386-b6b5d96d-4850-4510-afac-52b53144cd4c.mp4
+
+| Testes 	| CT 05 – Filtrar por habilidades |
+|:---:	|:---:	|
+
+`Em implementação`
+
+| Testes 	| CT 06 – Visualizar tabela com os filtros |
+|:---:	|:---:	|
+No video abaixo é possivel visualizar a tabela com as cores alteradas de acordo com os filtros do usuário
+
+https://user-images.githubusercontent.com/88688861/236684386-b6b5d96d-4850-4510-afac-52b53144cd4c.mp4
+  
+| Testes 	| CT 07 – Efetuar download do relatório com o conteúdo filtrado |
+|:---:	|:---:	|
+No video abaixo é possivel ver a planilha baixada contendo os items que foram filtrados
+
+https://user-images.githubusercontent.com/88688861/236684386-b6b5d96d-4850-4510-afac-52b53144cd4c.mp4
+
+
+---
+
+
 
 ## Avaliação
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
-
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+Todas as funcionalidades feitas até o momento funcionam perfeitamente.
