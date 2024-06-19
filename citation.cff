@@ -1,0 +1,19 @@
+message: Please cite this software using these metadata.
+title:Planejamento BNCC
+authors:
+  - family-names:  Alves Oliveira
+    given-names: Gustavo 
+  - family-names:  Carlos da Costa Júnior
+    given-names: José 
+  - family-names:  Bernardino Ribeiro Filho
+    given-names: Jefferson
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Silva Caldeira Rocha
+    given-names: Diego
+keywords:
+  - BNCC
+  - Planejamento
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e3-proj-mov-t6-grupo7-planejamento-bncc
+version: 1.0.0
+date-released: 2023-10-31
